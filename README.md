@@ -27,19 +27,10 @@
 <tbody>
   <tr>
     <td><a href="#"></a></td>
-    <td rowspan="1"><a href="https://github.com/celik-muhammed/NLP-Sentiment-Analysis-with-RNN-BERT-Project">01. (Machine Learnng - Deep Learning) NLP Sentiment Analysis with RNN and BERT Project</a></td>
+    <td rowspan="1"><a href="https://github.com/sue-yavuz/NLP-Sentiment-Analysis-with-RNN-BERT-Project">01. (Machine Learnng - Deep Learning) NLP Sentiment Analysis with RNN and BERT Project</a></td>
   </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2><a href="https://huggingface.co/models"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" valign="bottom" width="25" height="25"> Hugging Face (BERT, ALBERT... etc. Models)</a></th></tr></thead>
-<thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
-<tbody>
-  <tr>
-    <td><a href="#"></a></td>
-    <td><a href="https://www.kaggle.com/competitions/feedback-prize-english-language-learning">01. Kaggle: Feedback Prize - English Language Learning</a></td>
-  </tr>
-  <tr>
-    <td><a href="#"></a></td>
-  </tr>
-</tbody>
+
   
 
