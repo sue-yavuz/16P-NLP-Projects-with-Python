@@ -15,7 +15,7 @@
 
 <h3 align='center'>
   
-[16CS NLP Case Studies with Python](https://github.com/sue-yavuz/16CS-NLP-Case-Studies-with-Python/blob/master/README.md)
+[16P-NLP-Projects-with-Python](https://github.com/sue-yavuz/16CS-NLP-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
   
