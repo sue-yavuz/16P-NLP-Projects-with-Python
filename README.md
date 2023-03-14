@@ -13,9 +13,9 @@
 [github_pages]: https://sue-yavuz.github.io/ "GitHub Pages"
 </div>
 
-<h3 align='right'>
+<h3 align='center'>
   
-[16CS NLP Case Studies with Python](https://github.com/celik-muhammed/16CS-NLP-Case-Studies-with-Python/blob/master/README.md)
+[16CS NLP Case Studies with Python](https://github.com/sue-yavuz/16CS-NLP-Case-Studies-with-Python/blob/master/README.md)
 </h3>
 
   
