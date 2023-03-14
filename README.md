@@ -42,7 +42,4 @@
   </tr>
 </tbody>
   
-<tfoot>
-  <tr><td>draft</td></tr>
-</tfoot>
-</table>
+
